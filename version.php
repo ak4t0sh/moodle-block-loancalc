@@ -21,5 +21,6 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 defined('MOODLE_INTERNAL') || die;
-$plugin->version = 2013073100;
-
+$plugin->version = 2016071700;
+$plugin->requires  = 2010112400;
+$plugin->component = 'block_loancalc';
