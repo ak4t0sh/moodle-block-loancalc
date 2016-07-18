@@ -1,6 +1,8 @@
 Loancalc block for Moodle 2.x
 =============================
 
+__For Moodle 3.x :__  On 1st April 2016 David Mudrák release a [new version](https://github.com/mudrd8mz/moodle-block_loancalc) using latest technologies.
+
 DESCRIPTION
 -----------
 The loan calculator block allows users to calculate interest.
